@@ -1,4 +1,3 @@
-import NavBar from "";
 import HomePage from "./HomePage";
 
 const Home = () => {
